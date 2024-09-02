@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+ul,
+li {
+  list-style: none;
+}
+
 /* 폰트 선언 */
 body {
   font-family: "Noto Sans KR", sans-serif;
